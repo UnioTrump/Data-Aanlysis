@@ -40,6 +40,6 @@
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scikit-learn-extra`, `yellowbrick`, `fcmeans`, `scipy`
 
 ## 运行
-
+运行之前将Data_Cortex_Nuclear.csv放在Input文件夹下
 ```bash
 python Mice_Protein_Expression.py
